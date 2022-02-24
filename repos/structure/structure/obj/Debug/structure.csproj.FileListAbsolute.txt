@@ -1,0 +1,8 @@
+C:\Users\v-skadireni\source\repos\structure\structure\bin\Debug\structure.exe.config
+C:\Users\v-skadireni\source\repos\structure\structure\bin\Debug\structure.exe
+C:\Users\v-skadireni\source\repos\structure\structure\bin\Debug\structure.pdb
+C:\Users\v-skadireni\source\repos\structure\structure\obj\Debug\structure.csproj.AssemblyReference.cache
+C:\Users\v-skadireni\source\repos\structure\structure\obj\Debug\structure.csproj.SuggestedBindingRedirects.cache
+C:\Users\v-skadireni\source\repos\structure\structure\obj\Debug\structure.csproj.CoreCompileInputs.cache
+C:\Users\v-skadireni\source\repos\structure\structure\obj\Debug\structure.exe
+C:\Users\v-skadireni\source\repos\structure\structure\obj\Debug\structure.pdb

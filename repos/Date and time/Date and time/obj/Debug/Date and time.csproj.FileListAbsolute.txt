@@ -1,0 +1,8 @@
+C:\Users\v-skadireni\source\repos\Date and time\Date and time\bin\Debug\Date and time.exe.config
+C:\Users\v-skadireni\source\repos\Date and time\Date and time\bin\Debug\Date and time.exe
+C:\Users\v-skadireni\source\repos\Date and time\Date and time\bin\Debug\Date and time.pdb
+C:\Users\v-skadireni\source\repos\Date and time\Date and time\obj\Debug\Date and time.csproj.AssemblyReference.cache
+C:\Users\v-skadireni\source\repos\Date and time\Date and time\obj\Debug\Date and time.csproj.SuggestedBindingRedirects.cache
+C:\Users\v-skadireni\source\repos\Date and time\Date and time\obj\Debug\Date and time.csproj.CoreCompileInputs.cache
+C:\Users\v-skadireni\source\repos\Date and time\Date and time\obj\Debug\Date and time.exe
+C:\Users\v-skadireni\source\repos\Date and time\Date and time\obj\Debug\Date and time.pdb

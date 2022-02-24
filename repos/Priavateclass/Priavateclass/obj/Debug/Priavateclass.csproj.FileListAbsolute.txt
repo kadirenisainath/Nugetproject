@@ -1,0 +1,8 @@
+C:\Users\v-skadireni\source\repos\Priavateclass\Priavateclass\obj\Debug\Priavateclass.csproj.AssemblyReference.cache
+C:\Users\v-skadireni\source\repos\Priavateclass\Priavateclass\obj\Debug\Priavateclass.csproj.SuggestedBindingRedirects.cache
+C:\Users\v-skadireni\source\repos\Priavateclass\Priavateclass\obj\Debug\Priavateclass.csproj.CoreCompileInputs.cache
+C:\Users\v-skadireni\source\repos\Priavateclass\Priavateclass\bin\Debug\Priavateclass.exe.config
+C:\Users\v-skadireni\source\repos\Priavateclass\Priavateclass\bin\Debug\Priavateclass.exe
+C:\Users\v-skadireni\source\repos\Priavateclass\Priavateclass\bin\Debug\Priavateclass.pdb
+C:\Users\v-skadireni\source\repos\Priavateclass\Priavateclass\obj\Debug\Priavateclass.exe
+C:\Users\v-skadireni\source\repos\Priavateclass\Priavateclass\obj\Debug\Priavateclass.pdb

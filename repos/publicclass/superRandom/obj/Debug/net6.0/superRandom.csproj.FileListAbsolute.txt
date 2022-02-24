@@ -1,0 +1,12 @@
+C:\Users\v-skadireni\source\repos\publicclass\superRandom\bin\Debug\net6.0\superRandom.deps.json
+C:\Users\v-skadireni\source\repos\publicclass\superRandom\bin\Debug\net6.0\superRandom.dll
+C:\Users\v-skadireni\source\repos\publicclass\superRandom\bin\Debug\net6.0\superRandom.pdb
+C:\Users\v-skadireni\source\repos\publicclass\superRandom\obj\Debug\net6.0\superRandom.csproj.AssemblyReference.cache
+C:\Users\v-skadireni\source\repos\publicclass\superRandom\obj\Debug\net6.0\superRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-skadireni\source\repos\publicclass\superRandom\obj\Debug\net6.0\superRandom.AssemblyInfoInputs.cache
+C:\Users\v-skadireni\source\repos\publicclass\superRandom\obj\Debug\net6.0\superRandom.AssemblyInfo.cs
+C:\Users\v-skadireni\source\repos\publicclass\superRandom\obj\Debug\net6.0\superRandom.csproj.CoreCompileInputs.cache
+C:\Users\v-skadireni\source\repos\publicclass\superRandom\obj\Debug\net6.0\superRandom.dll
+C:\Users\v-skadireni\source\repos\publicclass\superRandom\obj\Debug\net6.0\refint\superRandom.dll
+C:\Users\v-skadireni\source\repos\publicclass\superRandom\obj\Debug\net6.0\superRandom.pdb
+C:\Users\v-skadireni\source\repos\publicclass\superRandom\obj\Debug\net6.0\ref\superRandom.dll

@@ -1,0 +1,8 @@
+C:\Users\v-skadireni\source\repos\motheds\motheds\bin\Debug\motheds.exe.config
+C:\Users\v-skadireni\source\repos\motheds\motheds\bin\Debug\motheds.exe
+C:\Users\v-skadireni\source\repos\motheds\motheds\bin\Debug\motheds.pdb
+C:\Users\v-skadireni\source\repos\motheds\motheds\obj\Debug\motheds.csproj.AssemblyReference.cache
+C:\Users\v-skadireni\source\repos\motheds\motheds\obj\Debug\motheds.csproj.SuggestedBindingRedirects.cache
+C:\Users\v-skadireni\source\repos\motheds\motheds\obj\Debug\motheds.csproj.CoreCompileInputs.cache
+C:\Users\v-skadireni\source\repos\motheds\motheds\obj\Debug\motheds.exe
+C:\Users\v-skadireni\source\repos\motheds\motheds\obj\Debug\motheds.pdb
